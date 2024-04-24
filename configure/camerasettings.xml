@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opencv_storage>
+    <!-- PNP解算参数-->
+    <lcamera_matrix type_id="opencv-matrix">
+        <rows>3</rows>
+        <cols>3</cols>
+        <dt>f</dt>
+        <data>
+            1975.115145822424 0 630.2455027119146
+            0 1996.49798185136 519.1572269777713
+            0 0 1
+        </data>
+    </lcamera_matrix>
+
+    <ldist_coeffs type_id="opencv-matrix">
+        <rows>5</rows>
+        <cols>1</cols>
+        <dt>f</dt>
+        <data>
+            0.0 0.0 0.0 0.0 0.0
+        </data>
+    </ldist_coeffs>
+    <rcamera_matrix type_id="opencv-matrix">
+        <rows>3</rows>
+        <cols>3</cols>
+        <dt>f</dt>
+        <data>
+            1785.378442868978 0 634.8217541498667
+            0 1820.508371497209 636.1530243856851
+            0 0 1
+        </data>
+    </rcamera_matrix>
+
+    <rdist_coeffs type_id="opencv-matrix">
+        <rows>5</rows>
+        <cols>1</cols>
+        <dt>f</dt>
+        <data>
+            0.0 0.0 0.0 0.0 0.0
+        </data>
+    </rdist_coeffs>
+
+    <small_armor_boxes_real_height>55</small_armor_boxes_real_height>
+    <small_armor_boxes_real_width>135</small_armor_boxes_real_width>
+    <big_armor_boxes_real_height>55</big_armor_boxes_real_height>
+    <big_armor_boxes_real_width>225</big_armor_boxes_real_width>
+    <rune_armor_boxes_real_height>125</rune_armor_boxes_real_height>
+    <rune_armor_boxes_real_width>225</rune_armor_boxes_real_width>
+    <!-- PNP解算参数-->
+
+    <!--灯条参数-->
+    <red_light_threshold>100</red_light_threshold>
+    <blue_light_threshold>100</blue_light_threshold>
+    <red_threshold>25</red_threshold>
+    <blue_threshold>30</blue_threshold>
+    <light_area_min>10</light_area_min>
+    <light_area_max>5000</light_area_max>
+    <light_angle>20</light_angle>
+    <light_height_width_ratio>1.5</light_height_width_ratio>
+    <light_area_ratio>0.4</light_area_ratio>
+    <!--灯条参数-->
+
+    <!--装甲板参数-->
+    <armor_light_angle_diff>12</armor_light_angle_diff>
+    <armor_light_height_ratio>0.38</armor_light_height_ratio>
+    <armor_light_width_ratio>0.48</armor_light_width_ratio>
+    <armor_angle_max>12</armor_angle_max>
+    
+    <!--装甲板参数-->
+
+    <!--Kalman滤波器参数-->
+    <Kalman_Q type_id="opencv-matrix"> <!-- Q 过程噪声-->
+    	<rows>6</rows>
+    	<cols>6</cols>
+    	<dt>f</dt>
+    	<data>
+    	    1. 0. 0. 0. 0. 0.
+    	    0. 100. 0. 0. 0. 0.
+    	    0. 0. 1. 0. 0. 0.
+    	    0. 0. 0. 100. 0. 0.
+    	    0. 0. 0. 0. 1. 0.
+    	    0. 0. 0. 0. 0. 100.
+    	</data>
+    </Kalman_Q>
+    
+    <Kalman_R tyoe_id="opencv_matrix"> <!-- R 测量噪声-->
+        <rows>3</rows>
+        <cols>3</cols>
+        <dt>f</dt>
+        <data>
+            1. 0. 0.
+            0. 1. 0.
+            0. 0. 1.
+        </data>
+    </Kalman_R>
+    <!--Kalman滤波器参数-->
+</opencv_storage>
+

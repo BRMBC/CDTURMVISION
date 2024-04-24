@@ -1,0 +1,4 @@
+Log file created at: 2024/03/22 04:38:47
+Running on machine: rm
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0322 04:38:47.080811  2177 MVCameraBase.cpp:99] Device:(name:MV-SUA133GC#1 sn:043171120159)Lost

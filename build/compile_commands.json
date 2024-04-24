@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/main.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/main.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/main.cpp"
+},
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/Armor/armorDetector.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/Armor/armorDetector.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/Armor/armorDetector.cpp"
+},
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/Armor/armorClassifier.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/Armor/armorClassifier.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/Armor/armorClassifier.cpp"
+},
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/Armor/spinDetector.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/Armor/spinDetector.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/Armor/spinDetector.cpp"
+},
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/Serial/serialport.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/Serial/serialport.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/Serial/serialport.cpp"
+},
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/camera_device/src/mindcamera.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/camera_device/src/mindcamera.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/camera_device/src/mindcamera.cpp"
+},
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/extools/solver.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/extools/solver.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/extools/solver.cpp"
+},
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/extools/tools.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/extools/tools.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/extools/tools.cpp"
+},
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/extools/predictor.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/extools/predictor.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/extools/predictor.cpp"
+},
+{
+  "directory": "/home/brmbc/桌面/vs-project/RMvision/build",
+  "command": "/usr/bin/c++   -I/home/brmbc/桌面/vs-project/RMvision/camera_device/include -I/home/brmbc/桌面/vs-project/RMvision/Armor -I/home/brmbc/桌面/vs-project/RMvision/extools -I/home/brmbc/桌面/vs-project/RMvision/Serial -I/home/brmbc/桌面/vs-project/RMvision/wthread -isystem /usr/local/include/opencv4  -g   -std=gnu++11 -o CMakeFiles/RMvision.dir/wthread/wthread.cpp.o -c /home/brmbc/桌面/vs-project/RMvision/wthread/wthread.cpp",
+  "file": "/home/brmbc/桌面/vs-project/RMvision/wthread/wthread.cpp"
+}
+]

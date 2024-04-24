@@ -1,0 +1,4 @@
+Log file created at: 2024/03/23 20:25:51
+Running on machine: rm
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0323 20:25:51.787567  2531 MVCAMAPI.cpp:350] CameraInit Failed, err:-19,Version:2.1.0.37,FriendlyName:PTK¯,SN:p)|¯
